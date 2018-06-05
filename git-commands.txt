@@ -18,4 +18,4 @@
                 If a file is in the staging area, but not committed, it shows with git status.
                 If there are no changes it will return "nothing to commit, working directory clean"
 
-5. git log : Shows a listing of commits on a branch including the corresponding details.
+5. git log : Shows a listing of commit on a branch including the corresponding details.
