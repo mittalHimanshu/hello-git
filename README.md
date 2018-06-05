@@ -1,3 +1,3 @@
 # hello-git
 
-In this repo i have explained some basic points of git commands
+In this repo I have discussed some basic points of git commands.
